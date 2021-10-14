@@ -1,3 +1,4 @@
+@Severity(SeverityLevel.MINOR)
 Feature: drag and drop
 
   Scenario: dropped succesffully

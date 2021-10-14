@@ -1,3 +1,4 @@
+@Severity(SeverityLevel.CRITICAL)
 Feature: progress bar
 
   Scenario: progress succesffully
