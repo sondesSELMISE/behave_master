@@ -1,4 +1,4 @@
-@Severity(SeverityLevel.MINOR)
+@Severity=blocker
 Feature: drag and drop
 
   Scenario: dropped succesffully

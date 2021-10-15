@@ -1,4 +1,4 @@
-@Severity(SeverityLevel.CRITICAL)
+@Severity=minor
 Feature: progress bar
 
   Scenario: progress succesffully
