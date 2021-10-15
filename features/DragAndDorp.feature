@@ -1,4 +1,4 @@
-@Severity=blocker
+@blocker
 Feature: drag and drop
 
   Scenario: dropped succesffully

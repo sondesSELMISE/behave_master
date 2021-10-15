@@ -1,4 +1,4 @@
-@Severity=minor
+@minor
 Feature: progress bar
 
   Scenario: progress succesffully
